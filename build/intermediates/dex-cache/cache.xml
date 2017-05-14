@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tatskie/Documents/Mobile Apps Dev/tranzgts-client-android/app/build/intermediates/incremental-classes/hidden/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eadf92b666dc846700e1d9a8c77929cec615142d">
+        <dex dex="/Users/tatskie/Documents/Mobile Apps Dev/tranzgts-client-android/app/build/intermediates/transforms/dex/hidden/debug/folders/1000/10000/instant-run-bootstrap_6ce52e0394f51845bf48e23b464a42f68dbcce0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tatskie/Documents/Mobile Apps Dev/tranzgts-client-android/app/build/intermediates/incremental-runtime-classes/hidden/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/tatskie/Documents/Mobile Apps Dev/tranzgts-client-android/app/build/intermediates/transforms/dex/hidden/debug/folders/1000/10000/instant-run_9458ded64ed36af5df0c1bfaf2650cbec9064b3f/classes.dex" />
+    </item>
+
+</items>

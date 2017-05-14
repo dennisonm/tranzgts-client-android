@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tranzwatch.gtsclient.hidden"
+    android:versionCode="35"
+    android:versionName="1.1" >
+
+    <uses-sdk
+        android:minSdkVersion="3"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+
+    <application
+        android:name="com.tranzwatch.gtsclient.MainApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/hidden_app_name"
+        android:theme="@style/TranzGTSTheme" >
+        <receiver android:name="com.tranzwatch.gtsclient.DialLaunchReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.NEW_OUTGOING_CALL" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.tranzwatch.gtsclient.MainActivity"
+            android:launchMode="singleTask" />
+
+        <activity-alias
+            android:name="com.tranzwatch.gtsclient.Launcher"
+            android:targetActivity="com.tranzwatch.gtsclient.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity-alias>
+
+        <activity android:name="com.tranzwatch.gtsclient.StatusActivity" />
+        <activity android:name="com.tranzwatch.gtsclient.AboutActivity" />
+        <activity android:name="com.tranzwatch.gtsclient.ShortcutActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+
+        <service android:name="com.tranzwatch.gtsclient.TrackingService" />
+        <service android:name="com.tranzwatch.gtsclient.TrackingService$HideNotificationService" />
+
+        <receiver android:name="com.tranzwatch.gtsclient.AutostartReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>
