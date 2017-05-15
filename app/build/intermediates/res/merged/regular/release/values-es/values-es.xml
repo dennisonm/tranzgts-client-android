@@ -17,7 +17,6 @@ www.tranzwatch.com</string>
     <string name="settings_foreground_summary">Aumentar prioridad de servicio</string>
     <string name="settings_foreground_title">Servicio de primer plano</string>
     <string name="settings_id_title">Identificador de Dispositivo</string>
-    <string name="settings_interval_summary">Intervalo de los mensajes, en segundos</string>
     <string name="settings_interval_title">Frecuencia de rastreo</string>
     <string name="settings_port_summary">Puerto TCP del servidor de rastreo</string>
     <string name="settings_port_title">Puerto del Servidor</string>
@@ -36,11 +35,13 @@ www.tranzwatch.com</string>
     <string name="settings_status_on">Desactivado</string>
     <string name="settings_status_on_summary">Servicio activado</string>
     <string name="settings_status_title">Estado del servicio</string>
+    <string name="shortcut_sos">TranzGTS - Socorro</string>
     <string name="shortcut_start">TranzGTS - Iniciar</string>
     <string name="shortcut_stop">TranzGTS - Detener</string>
     <string name="status_connectivity_change">Cambio en la conectividad</string>
     <string name="status_location_update">Actualización de Posición</string>
     <string name="status_send_fail">Error en el envío</string>
+    <string name="status_send_success">Enviado correctamente</string>
     <string name="status_service_create">Servicio creado</string>
     <string name="status_service_destroy">Servicio eliminado</string>
 </resources>

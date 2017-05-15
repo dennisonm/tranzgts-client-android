@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/tatskie/Documents/Mobile Apps Dev/tranzgts-client-android/app/build/intermediates/res/merged/regular/release/menu/main.xml",
-        "source": "/Users/tatskie/Documents/Mobile Apps Dev/tranzgts-client-android/app/src/main/res/menu/main.xml"
+        "merged": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/build/intermediates/res/merged/regular/release/menu/main.xml",
+        "source": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/menu/main.xml"
     },
     {
-        "merged": "/Users/tatskie/Documents/Mobile Apps Dev/tranzgts-client-android/app/build/intermediates/res/merged/regular/release/menu/status.xml",
-        "source": "/Users/tatskie/Documents/Mobile Apps Dev/tranzgts-client-android/app/src/main/res/menu/status.xml"
+        "merged": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/build/intermediates/res/merged/regular/release/menu/status.xml",
+        "source": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/menu/status.xml"
     }
 ]

@@ -16,7 +16,6 @@
     <string name="settings_foreground_summary">Збільшення пріоритету обслуговування</string>
     <string name="settings_foreground_title">Служба переднього плану</string>
     <string name="settings_id_title">Ідентифікатор пристрою</string>
-    <string name="settings_interval_summary">Інтервал повідомлень в секундах</string>
     <string name="settings_interval_title">Частота</string>
     <string name="settings_port_summary">TCP порт сервера</string>
     <string name="settings_port_title">Порт сервера</string>
@@ -35,11 +34,13 @@
     <string name="settings_status_on">Стоп</string>
     <string name="settings_status_on_summary">Сервіс працює</string>
     <string name="settings_status_title">Стан сервісу</string>
+    <string name="shortcut_sos">TranzGTS - SOS</string>
     <string name="shortcut_start">TranzGTS - Старт</string>
     <string name="shortcut_stop">TranzGTS - Стоп</string>
     <string name="status_connectivity_change">Зміна підключення</string>
     <string name="status_location_update">Оновлення розташування</string>
     <string name="status_send_fail">Відправлення  невдале</string>
+    <string name="status_send_success">Успішно відправлено</string>
     <string name="status_service_create">Сервіс створений</string>
     <string name="status_service_destroy">Сервіс знищено</string>
 </resources>

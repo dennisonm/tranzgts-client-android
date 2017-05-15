@@ -10,7 +10,6 @@
     <string name="settings_address_summary">Domain tai ip-osoite</string>
     <string name="settings_address_title">Palvelimen osoite</string>
     <string name="settings_id_title">Laitteen tunniste</string>
-    <string name="settings_interval_summary">Viestien aikaväli sekunneissa</string>
     <string name="settings_interval_title">Taajuus</string>
     <string name="settings_port_summary">Jäljityspalvelimen TCP-portti</string>
     <string name="settings_port_title">Serverin portti</string>

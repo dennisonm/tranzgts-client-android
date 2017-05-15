@@ -16,7 +16,6 @@
     <string name="settings_foreground_summary">Αύξηση προτεραιότητας της υπηρεσίας</string>
     <string name="settings_foreground_title">Υπηρεσία προσκηνίου</string>
     <string name="settings_id_title">Αναγνωριστικό συσκευής</string>
-    <string name="settings_interval_summary">Διάστημα μηνυμάτων σε δευτεόλεπτα</string>
     <string name="settings_interval_title">Συχνότητα</string>
     <string name="settings_port_summary">TCP θύρα εξυπηρετητή</string>
     <string name="settings_port_title">Θύρα εξυπηρετητή</string>

@@ -16,7 +16,6 @@
     <string name="settings_foreground_summary">Servis önceliği arttır</string>
     <string name="settings_foreground_title">Önplan servisi</string>
     <string name="settings_id_title">Cihaz Kimliği</string>
-    <string name="settings_interval_summary">Mesaj aralığı Sn.</string>
     <string name="settings_interval_title">Sıklık</string>
     <string name="settings_port_summary">İzleme Sunucusu TCP portu</string>
     <string name="settings_port_title">Sunucu Portu</string>
@@ -35,11 +34,13 @@
     <string name="settings_status_on">Durdur</string>
     <string name="settings_status_on_summary">Servis Çalışıyor</string>
     <string name="settings_status_title">Servis Durumu</string>
+    <string name="shortcut_sos">TranzGTS-SOS</string>
     <string name="shortcut_start">TranzGTS - Başlat</string>
     <string name="shortcut_stop">TranzGTS - Durdur</string>
     <string name="status_connectivity_change">Bağlantı değişimi</string>
     <string name="status_location_update">Yer güncellendi</string>
     <string name="status_send_fail">Gönderme başarısız</string>
+    <string name="status_send_success">Gönderme başarılı</string>
     <string name="status_service_create">Servis oluşturuldu</string>
     <string name="status_service_destroy">Servis kaldırıldı.</string>
 </resources>

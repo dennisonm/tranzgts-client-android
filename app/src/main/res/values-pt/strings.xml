@@ -4,13 +4,13 @@
   <string name="app_logo">TranzGTS</string>
   <string name="shortcut_start">TranzGTS - Iniciar</string>
   <string name="shortcut_stop">TranzGTS - Parar</string>
+  <string name="shortcut_sos">Emergência SOS</string>
   <string name="settings_id_title">Identificador único</string>
   <string name="settings_address_title">Endereço do servidor</string>
   <string name="settings_address_summary">Nome do domínio ou endereço IP</string>
   <string name="settings_port_title">Porta do servidor</string>
   <string name="settings_port_summary">Porta TCP do servidor de monitorização</string>
   <string name="settings_interval_title">Invervalo</string>
-  <string name="settings_interval_summary">Intervalo entre as mensagens em segundos</string>
   <string name="settings_status_title">Status do Serviço</string>
   <string name="settings_status_off">Iniciar</string>
   <string name="settings_status_on">Parar</string>
@@ -37,6 +37,7 @@
   <string name="about_web">Para mais informações visite \nwww.tranzwatch.com</string>
   <string name="status_service_create">Serviço criado</string>
   <string name="status_service_destroy">Serviço destruído</string>
+  <string name="status_send_success">Enviado com Sucesso</string>
   <string name="status_send_fail">Falha no envio</string>
   <string name="status_location_update">Localização atualizada</string>
   <string name="status_connectivity_change">Mudança de conectividade</string>

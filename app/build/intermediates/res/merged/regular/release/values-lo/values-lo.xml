@@ -16,7 +16,6 @@
     <string name="settings_foreground_summary">ເພີ່ມເຊີວິດໄພອໍຣິດຕີ້</string>
     <string name="settings_foreground_title">ເຊີວິດໂຟກຣາວດ໌</string>
     <string name="settings_id_title">ໝາຍເລກອຸປະກອນ</string>
-    <string name="settings_interval_summary">ໄລຍະຫ່າງສົ່ງຂໍ້ຄວາມເປັນວິນາທີ</string>
     <string name="settings_interval_title">ຄວາມຖີ່</string>
     <string name="settings_port_summary">ພອດ TCP ການຕິດຕາມເຊີເວີ້</string>
     <string name="settings_port_title">ພອດເຊີເວີ້</string>

@@ -16,7 +16,6 @@
     <string name="settings_foreground_summary">Zvýšit prioritu služba</string>
     <string name="settings_foreground_title">Popředí služba</string>
     <string name="settings_id_title">Identifikátor zařízení</string>
-    <string name="settings_interval_summary">Interval zpráv v sekundách</string>
     <string name="settings_interval_title">Frekvence</string>
     <string name="settings_port_summary">TCP port sledovacího serveru</string>
     <string name="settings_port_title">Port</string>
@@ -35,11 +34,13 @@
     <string name="settings_status_on">Stop</string>
     <string name="settings_status_on_summary">Spuštěno</string>
     <string name="settings_status_title">Stav služby</string>
+    <string name="shortcut_sos">TranzGTS - SOS</string>
     <string name="shortcut_start">TranzGTS - Spustit</string>
     <string name="shortcut_stop">TranzGTS - Zastavit</string>
     <string name="status_connectivity_change">Změna připojení</string>
     <string name="status_location_update">Aktualizace pozice</string>
     <string name="status_send_fail">Odesílání selhalo</string>
+    <string name="status_send_success">Úspěšně odesláno</string>
     <string name="status_service_create">Služba vytvořena</string>
     <string name="status_service_destroy">Služba zastavena</string>
 </resources>

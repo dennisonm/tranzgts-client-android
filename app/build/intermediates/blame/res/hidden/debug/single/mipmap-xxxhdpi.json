@@ -1,14 +1,6 @@
 [
     {
-        "merged": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\build\\intermediates\\res\\merged\\hidden\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
-        "source": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\hidden\\res\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\build\\intermediates\\res\\merged\\hidden\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
-        "source": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\hidden\\res\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\build\\intermediates\\res\\merged\\hidden\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
-        "source": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\hidden\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/build/intermediates/res/merged/hidden/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/hidden/res/mipmap-xxxhdpi/ic_launcher.png"
     }
 ]

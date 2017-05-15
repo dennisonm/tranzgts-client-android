@@ -13,10 +13,14 @@
     <string name="menu_status">Status</string>
     <string name="settings_address_summary">Názov domény alebo IP adresa</string>
     <string name="settings_address_title">Adresa servera</string>
+    <string name="settings_angle_summary">Interval natočenia v stupňoch</string>
+    <string name="settings_angle_title">Uhol</string>
+    <string name="settings_distance_summary">Interval vzdialenosti v metroch</string>
+    <string name="settings_distance_title">Vzdialenosť</string>
     <string name="settings_foreground_summary">Zvýšiť prioritu servis</string>
     <string name="settings_foreground_title">Služba v popredí</string>
     <string name="settings_id_title">Identifikátor zariadenia</string>
-    <string name="settings_interval_summary">Interval správ v sekundách</string>
+    <string name="settings_interval_summary">Interval odosielania v sekundách</string>
     <string name="settings_interval_title">Frekvencia</string>
     <string name="settings_port_summary">Sledovanie TCP portu servera</string>
     <string name="settings_port_title">Port servera</string>
@@ -35,11 +39,13 @@
     <string name="settings_status_on">Stop</string>
     <string name="settings_status_on_summary">Služba beží</string>
     <string name="settings_status_title">Stav služby</string>
+    <string name="shortcut_sos">TranzGTS - SOS</string>
     <string name="shortcut_start">TranzGTS - Štart</string>
     <string name="shortcut_stop">TranzGTS - Stop</string>
     <string name="status_connectivity_change">Zmena konektivity</string>
     <string name="status_location_update">Aktualizácia polohy</string>
     <string name="status_send_fail">Odoslanie zlyhalo</string>
+    <string name="status_send_success">Úspešne poslané</string>
     <string name="status_service_create">Servis vytvoril</string>
     <string name="status_service_destroy">Servis odstránený</string>
 </resources>

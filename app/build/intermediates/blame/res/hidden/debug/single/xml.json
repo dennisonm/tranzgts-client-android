@@ -1,14 +1,6 @@
 [
     {
-        "merged": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\build\\intermediates\\res\\merged\\hidden\\debug\\xml\\preferences.xml",
-        "source": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\xml\\preferences.xml"
-    },
-    {
-        "merged": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\build\\intermediates\\res\\merged\\hidden\\debug\\xml\\preferences.xml",
-        "source": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\xml\\preferences.xml"
-    },
-    {
-        "merged": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\build\\intermediates\\res\\merged\\hidden\\debug\\xml\\preferences.xml",
-        "source": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\xml\\preferences.xml"
+        "merged": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/build/intermediates/res/merged/hidden/debug/xml/preferences.xml",
+        "source": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/xml/preferences.xml"
     }
 ]

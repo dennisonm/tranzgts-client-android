@@ -16,7 +16,6 @@
     <string name="settings_foreground_summary">सेवा प्राथमिकता बढ़ाएँ</string>
     <string name="settings_foreground_title">अग्रभूमि सेवा</string>
     <string name="settings_id_title">उपकरण पहचानकर्ता</string>
-    <string name="settings_interval_summary">सैकंड्स में संदेश अंतराल </string>
     <string name="settings_interval_title">फ्रीक्वेंसी / आवृत्ति</string>
     <string name="settings_port_summary">ट्रैकिंग सर्वर का टीसीपी पोर्ट</string>
     <string name="settings_port_title">सर्वर पोर्ट</string>

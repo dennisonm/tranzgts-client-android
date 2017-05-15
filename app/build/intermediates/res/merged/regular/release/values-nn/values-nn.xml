@@ -16,7 +16,6 @@
     <string name="settings_foreground_summary">Auk teneste-prioritet</string>
     <string name="settings_foreground_title">Forgrunnsteneste</string>
     <string name="settings_id_title">Einingsidentifikator</string>
-    <string name="settings_interval_summary">Beskjedintervall i sekundar</string>
     <string name="settings_interval_title">Frekvens</string>
     <string name="settings_port_summary">TCP-port for sporingstenar</string>
     <string name="settings_port_title">Tenarport</string>

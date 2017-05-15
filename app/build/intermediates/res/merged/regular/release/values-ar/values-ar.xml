@@ -16,7 +16,6 @@
     <string name="settings_foreground_summary">زيادة أولوية الخدمة</string>
     <string name="settings_foreground_title">الخدمة الأمامية</string>
     <string name="settings_id_title">معرف الجهاز</string>
-    <string name="settings_interval_summary">فترة الرسائل بالثواني</string>
     <string name="settings_interval_title">تردد</string>
     <string name="settings_port_summary">تعقب منفذ خادم تي سي بي</string>
     <string name="settings_port_title">منفذ الخادم</string>

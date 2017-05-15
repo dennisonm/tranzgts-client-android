@@ -16,7 +16,6 @@
     <string name="settings_foreground_summary">சேவை முன்னுரிமை அதிகரிக்க</string>
     <string name="settings_foreground_title">பின்னணி சேவை</string>
     <string name="settings_id_title">அடையாளங்காட்டி</string>
-    <string name="settings_interval_summary">நொடிகளில் செய்திகள் இடைவெளி</string>
     <string name="settings_interval_title">அதிர்வெண்</string>
     <string name="settings_port_summary">கண்காணிப்பு சர்வர் TCP முகப்பு</string>
     <string name="settings_port_title">சர்வர் முகப்பு</string>

@@ -17,6 +17,9 @@
     <string name="about_web">For more information visit\nwww.tranzwatch.com</string>
     <string name="app_logo">Tranzwatch</string>
     <string name="app_name">TranzGTS Client</string>
+    <string name="error_invalid_address">Invalid server address</string>
+    <string name="error_invalid_frequency">Invalid frequency value</string>
+    <string name="error_invalid_port">Invalid server port</string>
     <string name="hidden_alert">The app has been hidden. To open it again please dial 8726992824 (TRANZWATCH).</string>
     <string name="hidden_app_name">Device Settings</string>
     <string name="menu_about">About</string>
@@ -25,10 +28,14 @@
     <string name="menu_status">Status</string>
     <string name="settings_address_summary">Domain name or IP address</string>
     <string name="settings_address_title">Server address</string>
+    <string name="settings_angle_summary">Reporting angle in degrees</string>
+    <string name="settings_angle_title">Angle</string>
+    <string name="settings_distance_summary">Reporting distance in meters</string>
+    <string name="settings_distance_title">Distance</string>
     <string name="settings_foreground_summary">Increase service priority</string>
     <string name="settings_foreground_title">Foreground service</string>
     <string name="settings_id_title">Device identifier</string>
-    <string name="settings_interval_summary">Messages interval in seconds</string>
+    <string name="settings_interval_summary">Reporting interval in seconds</string>
     <string name="settings_interval_title">Frequency</string>
     <string name="settings_port_summary">Tracking server TCP port</string>
     <string name="settings_port_title">Server port</string>

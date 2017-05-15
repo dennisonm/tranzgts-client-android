@@ -1,26 +1,10 @@
 [
     {
-        "merged": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\build\\intermediates\\res\\merged\\hidden\\debug\\menu\\status.xml",
-        "source": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\menu\\status.xml"
+        "merged": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/build/intermediates/res/merged/hidden/debug/menu/main.xml",
+        "source": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/menu/main.xml"
     },
     {
-        "merged": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\build\\intermediates\\res\\merged\\hidden\\debug\\menu\\main.xml",
-        "source": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\menu\\main.xml"
-    },
-    {
-        "merged": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\build\\intermediates\\res\\merged\\hidden\\debug\\menu\\status.xml",
-        "source": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\menu\\status.xml"
-    },
-    {
-        "merged": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\build\\intermediates\\res\\merged\\hidden\\debug\\menu\\main.xml",
-        "source": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\menu\\main.xml"
-    },
-    {
-        "merged": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\build\\intermediates\\res\\merged\\hidden\\debug\\menu\\status.xml",
-        "source": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\menu\\status.xml"
-    },
-    {
-        "merged": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\build\\intermediates\\res\\merged\\hidden\\debug\\menu\\main.xml",
-        "source": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/build/intermediates/res/merged/hidden/debug/menu/status.xml",
+        "source": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/menu/status.xml"
     }
 ]

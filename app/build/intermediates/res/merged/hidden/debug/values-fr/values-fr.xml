@@ -16,7 +16,6 @@
     <string name="settings_foreground_summary">Augmenter la priorité de service</string>
     <string name="settings_foreground_title">Un service de premier plan</string>
     <string name="settings_id_title">Identifiant du périphérique</string>
-    <string name="settings_interval_summary">Fréquence d\'envoi de la localisation en secondes</string>
     <string name="settings_interval_title">Fréquence</string>
     <string name="settings_port_summary">Port TCP du serveur</string>
     <string name="settings_port_title">Port du serveur</string>
@@ -35,11 +34,13 @@
     <string name="settings_status_on">Arrêter</string>
     <string name="settings_status_on_summary">En marche</string>
     <string name="settings_status_title">Statut</string>
+    <string name="shortcut_sos">TranzGTS - SOS</string>
     <string name="shortcut_start">TranzGTS - Départ</string>
     <string name="shortcut_stop">TranzGTS - Arrêt</string>
     <string name="status_connectivity_change">Changement de connectivité</string>
     <string name="status_location_update">Localisation mise à jour</string>
-    <string name="status_send_fail">L’envoi de localisation a échoué</string>
+    <string name="status_send_fail">L’envoi a échoué</string>
+    <string name="status_send_success">Envoyé avec succès</string>
     <string name="status_service_create">Service créé</string>
     <string name="status_service_destroy">Service supprimé</string>
 </resources>

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\build\\intermediates\\incremental\\mergeHiddenDebugResources\\merged.dir\\values-nl\\values-nl.xml",
+        "outputFile": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/build/intermediates/incremental/mergeHiddenDebugResources/merged.dir/values-nl/values-nl.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 211
                 },
                 "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 34,
+                        "startLine": 39,
                         "startColumn": 2,
-                        "startOffset": 2061,
+                        "startOffset": 2416,
                         "endColumn": 158,
-                        "endOffset": 2217
+                        "endOffset": 2572
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 369
                 },
                 "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 35,
+                        "startLine": 40,
                         "startColumn": 2,
-                        "startOffset": 2220,
+                        "startOffset": 2576,
                         "endColumn": 155,
-                        "endOffset": 2373
+                        "endOffset": 2729
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 455
                 },
                 "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 36,
+                        "startLine": 41,
                         "startColumn": 2,
-                        "startOffset": 2376,
+                        "startOffset": 2733,
                         "endColumn": 83,
-                        "endOffset": 2457
+                        "endOffset": 2814
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 501
                 },
                 "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 2,
-                        "startOffset": 104,
+                        "startOffset": 107,
                         "endColumn": 43,
-                        "endOffset": 145
+                        "endOffset": 148
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 554
                 },
                 "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 2,
-                        "startOffset": 53,
+                        "startOffset": 55,
                         "endColumn": 50,
-                        "endOffset": 101
+                        "endOffset": 103
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 678
                 },
                 "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 43,
+                        "startLine": 49,
                         "startColumn": 2,
-                        "startOffset": 2854,
+                        "startOffset": 3285,
                         "endColumn": 121,
-                        "endOffset": 2973
+                        "endOffset": 3404
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 743
                 },
                 "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 42,
+                        "startLine": 48,
                         "startColumn": 2,
-                        "startOffset": 2791,
+                        "startOffset": 3221,
                         "endColumn": 62,
-                        "endOffset": 2851
+                        "endOffset": 3281
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 791
                 },
                 "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 31,
+                        "startLine": 36,
                         "startColumn": 2,
-                        "startOffset": 1908,
+                        "startOffset": 2260,
                         "endColumn": 45,
-                        "endOffset": 1951
+                        "endOffset": 2303
                     }
                 }
             },
@@ -163,13 +163,13 @@
                     "endOffset": 834
                 },
                 "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 33,
+                        "startLine": 38,
                         "startColumn": 2,
-                        "startOffset": 2020,
+                        "startOffset": 2374,
                         "endColumn": 40,
-                        "endOffset": 2058
+                        "endOffset": 2412
                     }
                 }
             },
@@ -182,13 +182,13 @@
                     "endOffset": 902
                 },
                 "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 32,
+                        "startLine": 37,
                         "startColumn": 2,
-                        "startOffset": 1954,
+                        "startOffset": 2307,
                         "endColumn": 65,
-                        "endOffset": 2017
+                        "endOffset": 2370
                     }
                 }
             },
@@ -201,13 +201,13 @@
                     "endOffset": 949
                 },
                 "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 30,
+                        "startLine": 35,
                         "startColumn": 2,
-                        "startOffset": 1863,
+                        "startOffset": 2214,
                         "endColumn": 44,
-                        "endOffset": 1905
+                        "endOffset": 2256
                     }
                 }
             },
@@ -220,13 +220,13 @@
                     "endOffset": 1025
                 },
                 "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 9,
                         "startColumn": 2,
-                        "startOffset": 390,
+                        "startOffset": 450,
                         "endColumn": 73,
-                        "endOffset": 461
+                        "endOffset": 521
                     }
                 }
             },
@@ -235,17 +235,17 @@
                     "startLine": 14,
                     "startColumn": 4,
                     "startOffset": 1030,
-                    "endColumn": 63,
-                    "endOffset": 1089
+                    "endColumn": 62,
+                    "endOffset": 1088
                 },
                 "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 8,
                         "startColumn": 2,
-                        "startOffset": 328,
-                        "endColumn": 61,
-                        "endOffset": 387
+                        "startOffset": 388,
+                        "endColumn": 60,
+                        "endOffset": 446
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1094,
-                    "endColumn": 85,
-                    "endOffset": 1175
+                    "startOffset": 1093,
+                    "endColumn": 75,
+                    "endOffset": 1164
                 },
                 "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 29,
+                        "startLine": 17,
                         "startColumn": 2,
-                        "startOffset": 1779,
-                        "endColumn": 83,
-                        "endOffset": 1860
+                        "startOffset": 998,
+                        "endColumn": 73,
+                        "endOffset": 1069
                     }
                 }
             },
@@ -272,18 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1180,
-                    "endColumn": 71,
-                    "endOffset": 1247
+                    "startOffset": 1169,
+                    "endColumn": 53,
+                    "endOffset": 1218
                 },
                 "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 28,
+                        "startLine": 16,
                         "startColumn": 2,
-                        "startOffset": 1709,
-                        "endColumn": 69,
-                        "endOffset": 1776
+                        "startOffset": 945,
+                        "endColumn": 51,
+                        "endOffset": 994
                     }
                 }
             },
@@ -291,18 +291,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1252,
-                    "endColumn": 67,
-                    "endOffset": 1315
+                    "startOffset": 1223,
+                    "endColumn": 81,
+                    "endOffset": 1300
                 },
                 "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 15,
                         "startColumn": 2,
-                        "startOffset": 262,
-                        "endColumn": 65,
-                        "endOffset": 325
+                        "startOffset": 864,
+                        "endColumn": 79,
+                        "endOffset": 941
                     }
                 }
             },
@@ -310,18 +310,18 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1320,
-                    "endColumn": 82,
-                    "endOffset": 1398
+                    "startOffset": 1305,
+                    "endColumn": 59,
+                    "endOffset": 1360
                 },
                 "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 14,
                         "startColumn": 2,
-                        "startOffset": 658,
-                        "endColumn": 80,
-                        "endOffset": 736
+                        "startOffset": 805,
+                        "endColumn": 57,
+                        "endOffset": 860
                     }
                 }
             },
@@ -329,821 +329,18 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1403,
-                    "endColumn": 62,
-                    "endOffset": 1461
+                    "startOffset": 1365,
+                    "endColumn": 85,
+                    "endOffset": 1446
                 },
                 "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 2,
-                        "startOffset": 597,
-                        "endColumn": 60,
-                        "endOffset": 655
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1466,
-                    "endColumn": 75,
-                    "endOffset": 1537
-                },
-                "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 2,
-                        "startOffset": 523,
-                        "endColumn": 73,
-                        "endOffset": 594
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 1542,
-                    "endColumn": 60,
-                    "endOffset": 1598
-                },
-                "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 2,
-                        "startOffset": 464,
-                        "endColumn": 58,
-                        "endOffset": 520
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 1603,
-                    "endColumn": 62,
-                    "endOffset": 1661
-                },
-                "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 2,
-                        "startOffset": 1505,
-                        "endColumn": 60,
-                        "endOffset": 1563
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 1666,
-                    "endColumn": 75,
-                    "endOffset": 1737
-                },
-                "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 2,
-                        "startOffset": 1635,
-                        "endColumn": 73,
-                        "endOffset": 1706
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 1742,
-                    "endColumn": 70,
-                    "endOffset": 1808
-                },
-                "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 2,
-                        "startOffset": 1566,
-                        "endColumn": 68,
-                        "endOffset": 1632
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 1813,
-                    "endColumn": 75,
-                    "endOffset": 1884
-                },
-                "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 2,
-                        "startOffset": 1431,
-                        "endColumn": 73,
-                        "endOffset": 1502
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 1889,
-                    "endColumn": 68,
-                    "endOffset": 1953
-                },
-                "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 2,
-                        "startOffset": 1364,
-                        "endColumn": 66,
-                        "endOffset": 1428
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 1958,
-                    "endColumn": 51,
-                    "endOffset": 2005
-                },
-                "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 2,
-                        "startOffset": 1103,
-                        "endColumn": 49,
-                        "endOffset": 1150
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 2010,
-                    "endColumn": 83,
-                    "endOffset": 2089
-                },
-                "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 2,
-                        "startOffset": 1202,
-                        "endColumn": 81,
-                        "endOffset": 1281
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 29,
-                    "startColumn": 4,
-                    "startOffset": 2094,
-                    "endColumn": 50,
-                    "endOffset": 2140
-                },
-                "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 2,
-                        "startOffset": 1153,
-                        "endColumn": 48,
-                        "endOffset": 1199
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 30,
-                    "startColumn": 4,
-                    "startOffset": 2145,
-                    "endColumn": 81,
-                    "endOffset": 2222
-                },
-                "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 2,
-                        "startOffset": 1284,
-                        "endColumn": 79,
-                        "endOffset": 1361
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 31,
-                    "startColumn": 4,
-                    "startOffset": 2227,
-                    "endColumn": 63,
-                    "endOffset": 2286
-                },
-                "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 2,
-                        "startOffset": 1041,
-                        "endColumn": 61,
-                        "endOffset": 1100
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 32,
-                    "startColumn": 4,
-                    "startOffset": 2291,
-                    "endColumn": 53,
-                    "endOffset": 2340
-                },
-                "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 2,
-                        "startOffset": 801,
-                        "endColumn": 51,
-                        "endOffset": 850
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 33,
-                    "startColumn": 4,
-                    "startOffset": 2345,
-                    "endColumn": 71,
-                    "endOffset": 2412
-                },
-                "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 2,
-                        "startOffset": 903,
-                        "endColumn": 69,
-                        "endOffset": 970
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 34,
-                    "startColumn": 4,
-                    "startOffset": 2417,
-                    "endColumn": 51,
-                    "endOffset": 2464
-                },
-                "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 2,
-                        "startOffset": 853,
-                        "endColumn": 49,
-                        "endOffset": 900
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 35,
-                    "startColumn": 4,
-                    "startOffset": 2469,
-                    "endColumn": 69,
-                    "endOffset": 2534
-                },
-                "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 2,
-                        "startOffset": 973,
-                        "endColumn": 67,
-                        "endOffset": 1038
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 36,
-                    "startColumn": 4,
-                    "startOffset": 2539,
-                    "endColumn": 63,
-                    "endOffset": 2598
-                },
-                "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 2,
-                        "startOffset": 739,
-                        "endColumn": 61,
-                        "endOffset": 798
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 37,
-                    "startColumn": 4,
-                    "startOffset": 2603,
-                    "endColumn": 59,
-                    "endOffset": 2658
-                },
-                "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 2,
-                        "startOffset": 148,
-                        "endColumn": 57,
-                        "endOffset": 203
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 38,
-                    "startColumn": 4,
-                    "startOffset": 2663,
-                    "endColumn": 57,
-                    "endOffset": 2716
-                },
-                "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 2,
-                        "startOffset": 206,
-                        "endColumn": 55,
-                        "endOffset": 259
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 39,
-                    "startColumn": 4,
-                    "startOffset": 2721,
-                    "endColumn": 75,
-                    "endOffset": 2792
-                },
-                "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 41,
-                        "startColumn": 2,
-                        "startOffset": 2717,
-                        "endColumn": 73,
-                        "endOffset": 2788
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 40,
-                    "startColumn": 4,
-                    "startOffset": 2797,
-                    "endColumn": 65,
-                    "endOffset": 2858
-                },
-                "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 40,
-                        "startColumn": 2,
-                        "startOffset": 2653,
-                        "endColumn": 63,
-                        "endOffset": 2714
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 41,
-                    "startColumn": 4,
-                    "startOffset": 2863,
-                    "endColumn": 62,
-                    "endOffset": 2921
-                },
-                "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 39,
-                        "startColumn": 2,
-                        "startOffset": 2592,
-                        "endColumn": 60,
-                        "endOffset": 2650
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 42,
-                    "startColumn": 4,
-                    "startOffset": 2926,
-                    "endColumn": 68,
-                    "endOffset": 2990
-                },
-                "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 37,
-                        "startColumn": 2,
-                        "startOffset": 2460,
-                        "endColumn": 66,
-                        "endOffset": 2524
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 43,
-                    "startColumn": 4,
-                    "startOffset": 2995,
-                    "endColumn": 66,
-                    "endOffset": 3057
-                },
-                "from": {
-                    "file": "H:\\Users\\tatskie\\Documents\\Mobile Apps Dev\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 38,
-                        "startColumn": 2,
-                        "startOffset": 2527,
-                        "endColumn": 64,
-                        "endOffset": 2589
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\build\\intermediates\\incremental\\mergeHiddenDebugResources\\merged.dir\\values-nl\\values-nl.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 160,
-                    "endOffset": 211
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 2,
-                        "startOffset": 2061,
-                        "endColumn": 158,
-                        "endOffset": 2217
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 216,
-                    "endColumn": 157,
-                    "endOffset": 369
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 35,
-                        "startColumn": 2,
-                        "startOffset": 2220,
-                        "endColumn": 155,
-                        "endOffset": 2373
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 374,
-                    "endColumn": 85,
-                    "endOffset": 455
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 36,
-                        "startColumn": 2,
-                        "startOffset": 2376,
+                        "startOffset": 2129,
                         "endColumn": 83,
-                        "endOffset": 2457
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 460,
-                    "endColumn": 45,
-                    "endOffset": 501
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 2,
-                        "startOffset": 104,
-                        "endColumn": 43,
-                        "endOffset": 145
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 506,
-                    "endColumn": 52,
-                    "endOffset": 554
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 2,
-                        "startOffset": 53,
-                        "endColumn": 50,
-                        "endOffset": 101
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 559,
-                    "endColumn": 123,
-                    "endOffset": 678
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 43,
-                        "startColumn": 2,
-                        "startOffset": 2854,
-                        "endColumn": 121,
-                        "endOffset": 2973
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 683,
-                    "endColumn": 64,
-                    "endOffset": 743
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 42,
-                        "startColumn": 2,
-                        "startOffset": 2791,
-                        "endColumn": 62,
-                        "endOffset": 2851
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 748,
-                    "endColumn": 47,
-                    "endOffset": 791
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 31,
-                        "startColumn": 2,
-                        "startOffset": 1908,
-                        "endColumn": 45,
-                        "endOffset": 1951
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 796,
-                    "endColumn": 42,
-                    "endOffset": 834
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 33,
-                        "startColumn": 2,
-                        "startOffset": 2020,
-                        "endColumn": 40,
-                        "endOffset": 2058
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 839,
-                    "endColumn": 67,
-                    "endOffset": 902
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 2,
-                        "startOffset": 1954,
-                        "endColumn": 65,
-                        "endOffset": 2017
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 907,
-                    "endColumn": 46,
-                    "endOffset": 949
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 2,
-                        "startOffset": 1863,
-                        "endColumn": 44,
-                        "endOffset": 1905
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 954,
-                    "endColumn": 75,
-                    "endOffset": 1025
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 2,
-                        "startOffset": 390,
-                        "endColumn": 73,
-                        "endOffset": 461
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1030,
-                    "endColumn": 63,
-                    "endOffset": 1089
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 2,
-                        "startOffset": 328,
-                        "endColumn": 61,
-                        "endOffset": 387
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1094,
-                    "endColumn": 85,
-                    "endOffset": 1175
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 2,
-                        "startOffset": 1779,
-                        "endColumn": 83,
-                        "endOffset": 1860
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1180,
-                    "endColumn": 71,
-                    "endOffset": 1247
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 2,
-                        "startOffset": 1709,
-                        "endColumn": 69,
-                        "endOffset": 1776
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1252,
-                    "endColumn": 67,
-                    "endOffset": 1315
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 2,
-                        "startOffset": 262,
-                        "endColumn": 65,
-                        "endOffset": 325
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1320,
-                    "endColumn": 82,
-                    "endOffset": 1398
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 2,
-                        "startOffset": 658,
-                        "endColumn": 80,
-                        "endOffset": 736
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1403,
-                    "endColumn": 62,
-                    "endOffset": 1461
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 2,
-                        "startOffset": 597,
-                        "endColumn": 60,
-                        "endOffset": 655
+                        "endOffset": 2210
                     }
                 }
             },
@@ -1151,18 +348,18 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1466,
-                    "endColumn": 75,
-                    "endOffset": 1537
+                    "startOffset": 1451,
+                    "endColumn": 71,
+                    "endOffset": 1518
                 },
                 "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 33,
                         "startColumn": 2,
-                        "startOffset": 523,
-                        "endColumn": 73,
-                        "endOffset": 594
+                        "startOffset": 2058,
+                        "endColumn": 69,
+                        "endOffset": 2125
                     }
                 }
             },
@@ -1170,18 +367,18 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1542,
-                    "endColumn": 60,
-                    "endOffset": 1598
+                    "startOffset": 1523,
+                    "endColumn": 66,
+                    "endOffset": 1585
                 },
                 "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 2,
-                        "startOffset": 464,
-                        "endColumn": 58,
-                        "endOffset": 520
+                        "startOffset": 322,
+                        "endColumn": 64,
+                        "endOffset": 384
                     }
                 }
             },
@@ -1189,18 +386,18 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1603,
-                    "endColumn": 62,
-                    "endOffset": 1661
+                    "startOffset": 1590,
+                    "endColumn": 84,
+                    "endOffset": 1670
                 },
                 "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 25,
+                        "startLine": 13,
                         "startColumn": 2,
-                        "startOffset": 1505,
-                        "endColumn": 60,
-                        "endOffset": 1563
+                        "startOffset": 721,
+                        "endColumn": 82,
+                        "endOffset": 801
                     }
                 }
             },
@@ -1208,18 +405,18 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1666,
-                    "endColumn": 75,
-                    "endOffset": 1737
+                    "startOffset": 1675,
+                    "endColumn": 62,
+                    "endOffset": 1733
                 },
                 "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 27,
+                        "startLine": 12,
                         "startColumn": 2,
-                        "startOffset": 1635,
-                        "endColumn": 73,
-                        "endOffset": 1706
+                        "startOffset": 659,
+                        "endColumn": 60,
+                        "endOffset": 717
                     }
                 }
             },
@@ -1227,840 +424,37 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1742,
-                    "endColumn": 70,
-                    "endOffset": 1808
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 2,
-                        "startOffset": 1566,
-                        "endColumn": 68,
-                        "endOffset": 1632
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 1813,
+                    "startOffset": 1738,
                     "endColumn": 75,
-                    "endOffset": 1884
+                    "endOffset": 1809
                 },
                 "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 2,
-                        "startOffset": 1431,
-                        "endColumn": 73,
-                        "endOffset": 1502
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 1889,
-                    "endColumn": 68,
-                    "endOffset": 1953
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 2,
-                        "startOffset": 1364,
-                        "endColumn": 66,
-                        "endOffset": 1428
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 1958,
-                    "endColumn": 51,
-                    "endOffset": 2005
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 2,
-                        "startOffset": 1103,
-                        "endColumn": 49,
-                        "endOffset": 1150
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 2010,
-                    "endColumn": 83,
-                    "endOffset": 2089
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 2,
-                        "startOffset": 1202,
-                        "endColumn": 81,
-                        "endOffset": 1281
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 29,
-                    "startColumn": 4,
-                    "startOffset": 2094,
-                    "endColumn": 50,
-                    "endOffset": 2140
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 2,
-                        "startOffset": 1153,
-                        "endColumn": 48,
-                        "endOffset": 1199
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 30,
-                    "startColumn": 4,
-                    "startOffset": 2145,
-                    "endColumn": 81,
-                    "endOffset": 2222
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 2,
-                        "startOffset": 1284,
-                        "endColumn": 79,
-                        "endOffset": 1361
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 31,
-                    "startColumn": 4,
-                    "startOffset": 2227,
-                    "endColumn": 63,
-                    "endOffset": 2286
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 2,
-                        "startOffset": 1041,
-                        "endColumn": 61,
-                        "endOffset": 1100
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 32,
-                    "startColumn": 4,
-                    "startOffset": 2291,
-                    "endColumn": 53,
-                    "endOffset": 2340
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 2,
-                        "startOffset": 801,
-                        "endColumn": 51,
-                        "endOffset": 850
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 33,
-                    "startColumn": 4,
-                    "startOffset": 2345,
-                    "endColumn": 71,
-                    "endOffset": 2412
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 2,
-                        "startOffset": 903,
-                        "endColumn": 69,
-                        "endOffset": 970
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 34,
-                    "startColumn": 4,
-                    "startOffset": 2417,
-                    "endColumn": 51,
-                    "endOffset": 2464
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 2,
-                        "startOffset": 853,
-                        "endColumn": 49,
-                        "endOffset": 900
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 35,
-                    "startColumn": 4,
-                    "startOffset": 2469,
-                    "endColumn": 69,
-                    "endOffset": 2534
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 2,
-                        "startOffset": 973,
-                        "endColumn": 67,
-                        "endOffset": 1038
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 36,
-                    "startColumn": 4,
-                    "startOffset": 2539,
-                    "endColumn": 63,
-                    "endOffset": 2598
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 2,
-                        "startOffset": 739,
-                        "endColumn": 61,
-                        "endOffset": 798
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 37,
-                    "startColumn": 4,
-                    "startOffset": 2603,
-                    "endColumn": 59,
-                    "endOffset": 2658
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 2,
-                        "startOffset": 148,
-                        "endColumn": 57,
-                        "endOffset": 203
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 38,
-                    "startColumn": 4,
-                    "startOffset": 2663,
-                    "endColumn": 57,
-                    "endOffset": 2716
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 2,
-                        "startOffset": 206,
-                        "endColumn": 55,
-                        "endOffset": 259
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 39,
-                    "startColumn": 4,
-                    "startOffset": 2721,
-                    "endColumn": 75,
-                    "endOffset": 2792
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 41,
-                        "startColumn": 2,
-                        "startOffset": 2717,
-                        "endColumn": 73,
-                        "endOffset": 2788
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 40,
-                    "startColumn": 4,
-                    "startOffset": 2797,
-                    "endColumn": 65,
-                    "endOffset": 2858
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 40,
-                        "startColumn": 2,
-                        "startOffset": 2653,
-                        "endColumn": 63,
-                        "endOffset": 2714
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 41,
-                    "startColumn": 4,
-                    "startOffset": 2863,
-                    "endColumn": 62,
-                    "endOffset": 2921
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 39,
-                        "startColumn": 2,
-                        "startOffset": 2592,
-                        "endColumn": 60,
-                        "endOffset": 2650
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 42,
-                    "startColumn": 4,
-                    "startOffset": 2926,
-                    "endColumn": 68,
-                    "endOffset": 2990
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 37,
-                        "startColumn": 2,
-                        "startOffset": 2460,
-                        "endColumn": 66,
-                        "endOffset": 2524
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 43,
-                    "startColumn": 4,
-                    "startOffset": 2995,
-                    "endColumn": 66,
-                    "endOffset": 3057
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 38,
-                        "startColumn": 2,
-                        "startOffset": 2527,
-                        "endColumn": 64,
-                        "endOffset": 2589
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\build\\intermediates\\incremental\\mergeHiddenDebugResources\\merged.dir\\values-nl\\values-nl.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 160,
-                    "endOffset": 211
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 34,
-                        "startColumn": 2,
-                        "startOffset": 2061,
-                        "endColumn": 158,
-                        "endOffset": 2217
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 216,
-                    "endColumn": 157,
-                    "endOffset": 369
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 35,
-                        "startColumn": 2,
-                        "startOffset": 2220,
-                        "endColumn": 155,
-                        "endOffset": 2373
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 374,
-                    "endColumn": 85,
-                    "endOffset": 455
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 36,
-                        "startColumn": 2,
-                        "startOffset": 2376,
-                        "endColumn": 83,
-                        "endOffset": 2457
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 460,
-                    "endColumn": 45,
-                    "endOffset": 501
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 2,
-                        "startOffset": 104,
-                        "endColumn": 43,
-                        "endOffset": 145
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 506,
-                    "endColumn": 52,
-                    "endOffset": 554
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 2,
-                        "startOffset": 53,
-                        "endColumn": 50,
-                        "endOffset": 101
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 559,
-                    "endColumn": 123,
-                    "endOffset": 678
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 43,
-                        "startColumn": 2,
-                        "startOffset": 2854,
-                        "endColumn": 121,
-                        "endOffset": 2973
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 683,
-                    "endColumn": 64,
-                    "endOffset": 743
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 42,
-                        "startColumn": 2,
-                        "startOffset": 2791,
-                        "endColumn": 62,
-                        "endOffset": 2851
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 748,
-                    "endColumn": 47,
-                    "endOffset": 791
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 31,
-                        "startColumn": 2,
-                        "startOffset": 1908,
-                        "endColumn": 45,
-                        "endOffset": 1951
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 796,
-                    "endColumn": 42,
-                    "endOffset": 834
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 33,
-                        "startColumn": 2,
-                        "startOffset": 2020,
-                        "endColumn": 40,
-                        "endOffset": 2058
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 839,
-                    "endColumn": 67,
-                    "endOffset": 902
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 2,
-                        "startOffset": 1954,
-                        "endColumn": 65,
-                        "endOffset": 2017
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 907,
-                    "endColumn": 46,
-                    "endOffset": 949
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 2,
-                        "startOffset": 1863,
-                        "endColumn": 44,
-                        "endOffset": 1905
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 954,
-                    "endColumn": 75,
-                    "endOffset": 1025
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 2,
-                        "startOffset": 390,
-                        "endColumn": 73,
-                        "endOffset": 461
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1030,
-                    "endColumn": 63,
-                    "endOffset": 1089
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 2,
-                        "startOffset": 328,
-                        "endColumn": 61,
-                        "endOffset": 387
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1094,
-                    "endColumn": 85,
-                    "endOffset": 1175
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 2,
-                        "startOffset": 1779,
-                        "endColumn": 83,
-                        "endOffset": 1860
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1180,
-                    "endColumn": 71,
-                    "endOffset": 1247
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 2,
-                        "startOffset": 1709,
-                        "endColumn": 69,
-                        "endOffset": 1776
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1252,
-                    "endColumn": 67,
-                    "endOffset": 1315
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 2,
-                        "startOffset": 262,
-                        "endColumn": 65,
-                        "endOffset": 325
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1320,
-                    "endColumn": 82,
-                    "endOffset": 1398
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 2,
-                        "startOffset": 658,
-                        "endColumn": 80,
-                        "endOffset": 736
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1403,
-                    "endColumn": 62,
-                    "endOffset": 1461
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 2,
-                        "startOffset": 597,
-                        "endColumn": 60,
+                        "startOffset": 584,
+                        "endColumn": 73,
                         "endOffset": 655
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1466,
-                    "endColumn": 75,
-                    "endOffset": 1537
+                    "startOffset": 1814,
+                    "endColumn": 59,
+                    "endOffset": 1869
                 },
                 "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 2,
-                        "startOffset": 523,
-                        "endColumn": 73,
-                        "endOffset": 594
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 1542,
-                    "endColumn": 60,
-                    "endOffset": 1598
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 2,
-                        "startOffset": 464,
-                        "endColumn": 58,
-                        "endOffset": 520
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 1603,
-                    "endColumn": 62,
-                    "endOffset": 1661
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 2,
-                        "startOffset": 1505,
-                        "endColumn": 60,
-                        "endOffset": 1563
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 1666,
-                    "endColumn": 75,
-                    "endOffset": 1737
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 2,
-                        "startOffset": 1635,
-                        "endColumn": 73,
-                        "endOffset": 1706
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 1742,
-                    "endColumn": 70,
-                    "endOffset": 1808
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 2,
-                        "startOffset": 1566,
-                        "endColumn": 68,
-                        "endOffset": 1632
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 1813,
-                    "endColumn": 75,
-                    "endOffset": 1884
-                },
-                "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 2,
-                        "startOffset": 1431,
-                        "endColumn": 73,
-                        "endOffset": 1502
+                        "startOffset": 525,
+                        "endColumn": 57,
+                        "endOffset": 580
                     }
                 }
             },
@@ -2068,18 +462,18 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 1889,
-                    "endColumn": 68,
-                    "endOffset": 1953
+                    "startOffset": 1874,
+                    "endColumn": 62,
+                    "endOffset": 1932
                 },
                 "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 23,
+                        "startLine": 30,
                         "startColumn": 2,
-                        "startOffset": 1364,
-                        "endColumn": 66,
-                        "endOffset": 1428
+                        "startOffset": 1851,
+                        "endColumn": 60,
+                        "endOffset": 1909
                     }
                 }
             },
@@ -2087,18 +481,18 @@
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 1958,
-                    "endColumn": 51,
-                    "endOffset": 2005
+                    "startOffset": 1937,
+                    "endColumn": 75,
+                    "endOffset": 2008
                 },
                 "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 32,
                         "startColumn": 2,
-                        "startOffset": 1103,
-                        "endColumn": 49,
-                        "endOffset": 1150
+                        "startOffset": 1983,
+                        "endColumn": 73,
+                        "endOffset": 2054
                     }
                 }
             },
@@ -2106,18 +500,18 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 2010,
-                    "endColumn": 83,
-                    "endOffset": 2089
+                    "startOffset": 2013,
+                    "endColumn": 70,
+                    "endOffset": 2079
                 },
                 "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 31,
                         "startColumn": 2,
-                        "startOffset": 1202,
-                        "endColumn": 81,
-                        "endOffset": 1281
+                        "startOffset": 1913,
+                        "endColumn": 68,
+                        "endOffset": 1979
                     }
                 }
             },
@@ -2125,18 +519,18 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2094,
-                    "endColumn": 50,
-                    "endOffset": 2140
+                    "startOffset": 2084,
+                    "endColumn": 75,
+                    "endOffset": 2155
                 },
                 "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 29,
                         "startColumn": 2,
-                        "startOffset": 1153,
-                        "endColumn": 48,
-                        "endOffset": 1199
+                        "startOffset": 1776,
+                        "endColumn": 73,
+                        "endOffset": 1847
                     }
                 }
             },
@@ -2144,18 +538,18 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 2145,
-                    "endColumn": 81,
-                    "endOffset": 2222
+                    "startOffset": 2160,
+                    "endColumn": 68,
+                    "endOffset": 2224
                 },
                 "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 22,
+                        "startLine": 28,
                         "startColumn": 2,
-                        "startOffset": 1284,
-                        "endColumn": 79,
-                        "endOffset": 1361
+                        "startOffset": 1708,
+                        "endColumn": 66,
+                        "endOffset": 1772
                     }
                 }
             },
@@ -2163,18 +557,18 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 2227,
-                    "endColumn": 63,
-                    "endOffset": 2286
+                    "startOffset": 2229,
+                    "endColumn": 51,
+                    "endOffset": 2276
                 },
                 "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 24,
                         "startColumn": 2,
-                        "startOffset": 1041,
-                        "endColumn": 61,
-                        "endOffset": 1100
+                        "startOffset": 1443,
+                        "endColumn": 49,
+                        "endOffset": 1490
                     }
                 }
             },
@@ -2182,18 +576,18 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 2291,
-                    "endColumn": 53,
-                    "endOffset": 2340
+                    "startOffset": 2281,
+                    "endColumn": 83,
+                    "endOffset": 2360
                 },
                 "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 26,
                         "startColumn": 2,
-                        "startOffset": 801,
-                        "endColumn": 51,
-                        "endOffset": 850
+                        "startOffset": 1544,
+                        "endColumn": 81,
+                        "endOffset": 1623
                     }
                 }
             },
@@ -2201,18 +595,18 @@
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 2345,
-                    "endColumn": 71,
-                    "endOffset": 2412
+                    "startOffset": 2365,
+                    "endColumn": 50,
+                    "endOffset": 2411
                 },
                 "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 25,
                         "startColumn": 2,
-                        "startOffset": 903,
-                        "endColumn": 69,
-                        "endOffset": 970
+                        "startOffset": 1494,
+                        "endColumn": 48,
+                        "endOffset": 1540
                     }
                 }
             },
@@ -2220,18 +614,18 @@
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 2417,
-                    "endColumn": 51,
-                    "endOffset": 2464
+                    "startOffset": 2416,
+                    "endColumn": 81,
+                    "endOffset": 2493
                 },
                 "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 27,
                         "startColumn": 2,
-                        "startOffset": 853,
-                        "endColumn": 49,
-                        "endOffset": 900
+                        "startOffset": 1627,
+                        "endColumn": 79,
+                        "endOffset": 1704
                     }
                 }
             },
@@ -2239,18 +633,18 @@
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 2469,
-                    "endColumn": 69,
-                    "endOffset": 2534
+                    "startOffset": 2498,
+                    "endColumn": 63,
+                    "endOffset": 2557
                 },
                 "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 23,
                         "startColumn": 2,
-                        "startOffset": 973,
-                        "endColumn": 67,
-                        "endOffset": 1038
+                        "startOffset": 1380,
+                        "endColumn": 61,
+                        "endOffset": 1439
                     }
                 }
             },
@@ -2258,18 +652,18 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 2539,
-                    "endColumn": 63,
-                    "endOffset": 2598
+                    "startOffset": 2562,
+                    "endColumn": 53,
+                    "endOffset": 2611
                 },
                 "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 19,
                         "startColumn": 2,
-                        "startOffset": 739,
-                        "endColumn": 61,
-                        "endOffset": 798
+                        "startOffset": 1136,
+                        "endColumn": 51,
+                        "endOffset": 1185
                     }
                 }
             },
@@ -2277,18 +671,18 @@
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 2603,
-                    "endColumn": 59,
-                    "endOffset": 2658
+                    "startOffset": 2616,
+                    "endColumn": 71,
+                    "endOffset": 2683
                 },
                 "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 21,
                         "startColumn": 2,
-                        "startOffset": 148,
-                        "endColumn": 57,
-                        "endOffset": 203
+                        "startOffset": 1240,
+                        "endColumn": 69,
+                        "endOffset": 1307
                     }
                 }
             },
@@ -2296,18 +690,18 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 2663,
-                    "endColumn": 57,
-                    "endOffset": 2716
+                    "startOffset": 2688,
+                    "endColumn": 51,
+                    "endOffset": 2735
                 },
                 "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 20,
                         "startColumn": 2,
-                        "startOffset": 206,
-                        "endColumn": 55,
-                        "endOffset": 259
+                        "startOffset": 1189,
+                        "endColumn": 49,
+                        "endOffset": 1236
                     }
                 }
             },
@@ -2315,18 +709,18 @@
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 2721,
-                    "endColumn": 75,
-                    "endOffset": 2792
+                    "startOffset": 2740,
+                    "endColumn": 69,
+                    "endOffset": 2805
                 },
                 "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 41,
+                        "startLine": 22,
                         "startColumn": 2,
-                        "startOffset": 2717,
-                        "endColumn": 73,
-                        "endOffset": 2788
+                        "startOffset": 1311,
+                        "endColumn": 67,
+                        "endOffset": 1376
                     }
                 }
             },
@@ -2334,18 +728,18 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 2797,
-                    "endColumn": 65,
-                    "endOffset": 2858
+                    "startOffset": 2810,
+                    "endColumn": 63,
+                    "endOffset": 2869
                 },
                 "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 40,
+                        "startLine": 18,
                         "startColumn": 2,
-                        "startOffset": 2653,
-                        "endColumn": 63,
-                        "endOffset": 2714
+                        "startOffset": 1073,
+                        "endColumn": 61,
+                        "endOffset": 1132
                     }
                 }
             },
@@ -2353,18 +747,18 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 2863,
-                    "endColumn": 62,
-                    "endOffset": 2921
+                    "startOffset": 2874,
+                    "endColumn": 54,
+                    "endOffset": 2924
                 },
                 "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 39,
+                        "startLine": 6,
                         "startColumn": 2,
-                        "startOffset": 2592,
-                        "endColumn": 60,
-                        "endOffset": 2650
+                        "startOffset": 268,
+                        "endColumn": 52,
+                        "endOffset": 318
                     }
                 }
             },
@@ -2372,18 +766,18 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 2926,
-                    "endColumn": 68,
-                    "endOffset": 2990
+                    "startOffset": 2929,
+                    "endColumn": 59,
+                    "endOffset": 2984
                 },
                 "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 37,
+                        "startLine": 4,
                         "startColumn": 2,
-                        "startOffset": 2460,
-                        "endColumn": 66,
-                        "endOffset": 2524
+                        "startOffset": 152,
+                        "endColumn": 57,
+                        "endOffset": 207
                     }
                 }
             },
@@ -2391,18 +785,132 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 2995,
-                    "endColumn": 66,
-                    "endOffset": 3057
+                    "startOffset": 2989,
+                    "endColumn": 57,
+                    "endOffset": 3042
                 },
                 "from": {
-                    "file": "H:\\Dropbox\\Dev - Mobile App\\TranzGTS\\tranzgts-client-android\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
                     "position": {
-                        "startLine": 38,
+                        "startLine": 5,
                         "startColumn": 2,
-                        "startOffset": 2527,
+                        "startOffset": 211,
+                        "endColumn": 55,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3047,
+                    "endColumn": 75,
+                    "endOffset": 3118
+                },
+                "from": {
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 2,
+                        "startOffset": 3146,
+                        "endColumn": 73,
+                        "endOffset": 3217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3123,
+                    "endColumn": 65,
+                    "endOffset": 3184
+                },
+                "from": {
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 2,
+                        "startOffset": 3081,
+                        "endColumn": 63,
+                        "endOffset": 3142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3189,
+                    "endColumn": 62,
+                    "endOffset": 3247
+                },
+                "from": {
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 2,
+                        "startOffset": 3019,
+                        "endColumn": 60,
+                        "endOffset": 3077
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3252,
+                    "endColumn": 67,
+                    "endOffset": 3315
+                },
+                "from": {
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 2,
+                        "startOffset": 2952,
+                        "endColumn": 65,
+                        "endOffset": 3015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3320,
+                    "endColumn": 68,
+                    "endOffset": 3384
+                },
+                "from": {
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 2,
+                        "startOffset": 2818,
+                        "endColumn": 66,
+                        "endOffset": 2882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3389,
+                    "endColumn": 66,
+                    "endOffset": 3451
+                },
+                "from": {
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 2,
+                        "startOffset": 2886,
                         "endColumn": 64,
-                        "endOffset": 2589
+                        "endOffset": 2948
                     }
                 }
             }

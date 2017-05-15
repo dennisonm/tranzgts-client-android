@@ -3,21 +3,39 @@
 
     <item
         is-multidex="true"
-        jar="/Users/tatskie/Documents/Mobile Apps Dev/tranzgts-client-android/app/build/intermediates/incremental-classes/hidden/debug/instant-run-bootstrap.jar"
+        jar="/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/build/intermediates/incremental-classes/hidden/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="eadf92b666dc846700e1d9a8c77929cec615142d">
-        <dex dex="/Users/tatskie/Documents/Mobile Apps Dev/tranzgts-client-android/app/build/intermediates/transforms/dex/hidden/debug/folders/1000/10000/instant-run-bootstrap_6ce52e0394f51845bf48e23b464a42f68dbcce0c/classes.dex" />
+        sha1="048a12b2dff26adf9cbe59f4a263d46c7b5d7bd2">
+        <dex dex="/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/build/intermediates/transforms/dex/hidden/debug/folders/1000/10000/instant-run-bootstrap_6350e8368764195080ea841dd8d806cd435bbc8a/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/tatskie/Documents/Mobile Apps Dev/tranzgts-client-android/app/build/intermediates/incremental-runtime-classes/hidden/debug/instant-run.jar"
+        jar="/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/build/intermediates/incremental-runtime-classes/hidden/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="/Users/tatskie/Documents/Mobile Apps Dev/tranzgts-client-android/app/build/intermediates/transforms/dex/hidden/debug/folders/1000/10000/instant-run_9458ded64ed36af5df0c1bfaf2650cbec9064b3f/classes.dex" />
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/build/intermediates/transforms/dex/hidden/debug/folders/1000/10000/instant-run_a1614a75644025145fbd21c6ee12767468236e41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/build/intermediates/incremental-runtime-classes/regular/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/build/intermediates/transforms/dex/regular/debug/folders/1000/10000/instant-run_1e0ec06487ce7616409ab51f07bd444760f8aa5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/build/intermediates/incremental-classes/regular/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ea2dbe0d0a8fcf7ea7970993cff1a534484335b">
+        <dex dex="/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/build/intermediates/transforms/dex/regular/debug/folders/1000/10000/instant-run-bootstrap_163cf4d02c8b92af2b54b0f576dd322aab2411b3/classes.dex" />
     </item>
 
 </items>

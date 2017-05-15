@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/tatskie/Documents/Mobile Apps Dev/tranzgts-client-android/app/build/intermediates/incremental/mergeRegularReleaseResources/merged.dir/values-v11/values-v11.xml",
+        "outputFile": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/build/intermediates/incremental/mergeRegularReleaseResources/merged.dir/values-v11/values-v11.xml",
         "map": [
             {
                 "to": {
@@ -12,14 +12,14 @@
                     "endOffset": 130
                 },
                 "from": {
-                    "file": "/Users/tatskie/Documents/Mobile Apps Dev/tranzgts-client-android/app/src/main/res/values-v11/themes.xml",
+                    "file": "/Users/tatskie/Dropbox/Dev - Mobile App/TranzGTS/tranzgts-client-android/app/src/main/res/values-v11/themes.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 56,
+                        "startOffset": 59,
                         "endLine": 4,
                         "endColumn": 12,
-                        "endOffset": 131
+                        "endOffset": 135
                     }
                 }
             }

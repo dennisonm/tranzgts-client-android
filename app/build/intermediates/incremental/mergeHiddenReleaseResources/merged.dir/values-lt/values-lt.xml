@@ -16,7 +16,6 @@
     <string name="settings_foreground_summary">Padidinti tarnybos prioritetą</string>
     <string name="settings_foreground_title">Žeminti tarnybos prioritetą</string>
     <string name="settings_id_title">Įrenginio numeris</string>
-    <string name="settings_interval_summary">Siuntimo intervalas sekundėmis</string>
     <string name="settings_interval_title">Dažnumas</string>
     <string name="settings_port_summary">Serverio TCP prievadas</string>
     <string name="settings_port_title">Serverio prievadas</string>

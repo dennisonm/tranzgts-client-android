@@ -18,6 +18,7 @@
     <string name="shortcut_start">TranzGTS - Zaženi</string>
     <string name="shortcut_stop">TranzGTS - Ustavi</string>
     <string name="status_send_fail">Pošiljanje spodletelo</string>
+    <string name="status_send_success">Pošiljanje uspelo</string>
     <string name="status_service_create">Servis ustvarjen</string>
     <string name="status_service_destroy">Servis uničen</string>
 </resources>

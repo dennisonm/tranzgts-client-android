@@ -12,12 +12,15 @@
     <string name="menu_shortcuts">Dodaj prečace</string>
     <string name="menu_status">Status</string>
     <string name="settings_address_summary">Ime domene ili IP adresa</string>
-    <string name="settings_address_title">Adresa poslužitelja
-</string>
+    <string name="settings_address_title">Adresa poslužitelja</string>
+    <string name="settings_angle_summary">Kut izvješćivanja u stupnjevima</string>
+    <string name="settings_angle_title">Kut</string>
+    <string name="settings_distance_summary">Udaljenost izvješćivanja u metrima</string>
+    <string name="settings_distance_title">Udaljenost</string>
     <string name="settings_foreground_summary">Povećanje prioriteta usluge</string>
     <string name="settings_foreground_title">Predhodna usluga</string>
     <string name="settings_id_title">Identifikator uređaja</string>
-    <string name="settings_interval_summary">Interval poruka u sekundama</string>
+    <string name="settings_interval_summary">Interval izvješćivanja u sekundama</string>
     <string name="settings_interval_title">Učestalost</string>
     <string name="settings_port_summary">TCP port poslužitelja za praćenje</string>
     <string name="settings_port_title">Broj porta poslužitelja</string>
@@ -26,16 +29,23 @@
     <string name="settings_provider_network">Mrežni pružatelj usluge</string>
     <string name="settings_provider_summary">Izvor podataka o lokaciji</string>
     <string name="settings_provider_title">Pružatelj usluge lokacija</string>
+    <string name="settings_secure_off">Uključi</string>
+    <string name="settings_secure_off_summary">Enkripcija isključena</string>
+    <string name="settings_secure_on">Isključi</string>
+    <string name="settings_secure_on_summary">Enkripcija uključena</string>
+    <string name="settings_secure_title">Enkripcija</string>
     <string name="settings_status_off">Start</string>
     <string name="settings_status_off_summary">Servis zaustavljen</string>
     <string name="settings_status_on">Stop</string>
     <string name="settings_status_on_summary">Servis pokrenut</string>
     <string name="settings_status_title">Status servisa</string>
+    <string name="shortcut_sos">TranzGTS - SOS</string>
     <string name="shortcut_start">TranzGTS - Start</string>
-    <string name="shortcut_stop">TranzGTS -Stop</string>
+    <string name="shortcut_stop">TranzGTS - Stop</string>
     <string name="status_connectivity_change">Promjena konekcije</string>
     <string name="status_location_update">Osvežavanje lokacije</string>
     <string name="status_send_fail">Greška pri slanju</string>
+    <string name="status_send_success">Slanje uspješno</string>
     <string name="status_service_create">Kreator usluge</string>
     <string name="status_service_destroy">Usluga uništena</string>
 </resources>
